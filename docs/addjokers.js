@@ -44,7 +44,7 @@ let jokers = [
 	{
 		name: 'ミラクルミュージカル',
 		text: ['+12 Chips. +12 Mult. Sell this after 12 Rounds for -1 Ante, and to stop this from appearing for the rest of the game.'],
-		image_url: 'assets/placeholder.png',
+		image_url: 'assets/miraclemusical.png',
 		rarity: 'Common',
 	},
 	{
